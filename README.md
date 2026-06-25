@@ -42,5 +42,3 @@ When you're finished, close the inventory. The shulker box will automatically be
 **do you have plans to improve this in the future?** - yes I do, I plan to add more customization in terms of the crate menus, the opening animations and diffrent crate types like an option to let people select the reward rather than it be random.
 
 **will this plugin support newer versions?** - Ill try my best to keep this plugin up to date and working, although I might be alittle slow sometimes
-
-### other things to keep in mind
