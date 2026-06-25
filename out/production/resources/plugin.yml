@@ -1,0 +1,12 @@
+name: CrateManager
+description: Crate plugin
+version: '1.0'
+
+main: me.eastpenguin.cratemanager.Cratemanager
+api-version: '1.21'
+
+authors: [ EastPenguin8544 ]
+
+commands:
+  cratepreview:
+    description: Preview crates

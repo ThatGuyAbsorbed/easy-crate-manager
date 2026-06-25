@@ -1,0 +1,17 @@
+name: CrateManager
+description: Crate plugin
+version: '1.0'
+
+main: me.eastpenguin.cratemanager.Cratemanager
+api-version: '1.21'
+
+authors: [ EastPenguin8544 ]
+
+commands:
+  setcratekey:
+    description: turns an item into a key
+    default: op
+
+  setweight:
+    description: sets the weight of an item for a crate
+    default: op

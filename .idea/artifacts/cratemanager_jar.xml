@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cratemanager:jar">
+    <output-path>$PROJECT_DIR$/../../papermc/plugins/artifacts/cratemanager_jar</output-path>
+    <root id="archive" name="cratemanager.jar">
+      <element id="module-output" name="cratemanager.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.3.21/a2ee2c4e220fee522f0451b723bab2a43f3481a7/kotlin-stdlib-2.3.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/2.3.21/fc813375d768ec8d2557b27a73a9878955024a23/kotlin-stdlib-jdk7-2.3.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/2.3.21/82bd61b853e2e3dbb2124b2adc693d9c16557bed/kotlin-stdlib-jdk8-2.3.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
