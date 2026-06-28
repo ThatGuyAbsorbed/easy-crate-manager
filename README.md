@@ -42,3 +42,22 @@ When you're finished, close the inventory. The shulker box will automatically be
 **do you have plans to improve this in the future?** - yes I do, I plan to add more customization in terms of the crate menus, the opening animations and diffrent crate types like an option to let people select the reward rather than it be random.
 
 **will this plugin support newer versions?** - Ill try my best to keep this plugin up to date and working, although I might be alittle slow sometimes
+
+### other things to keep in mind
+- This plugin is still has a long way to go before Im finished with it
+- I might be slow to update
+- you can message me on discord if you have any problems with this plugin or suggestions @lucaart
+
+### what you are and are not allowed to do
+
+you may:
+
+- Use this plugin on your own Minecraft servers.
+- make money from this plugin aslong as its not through selling the actual code, including the source or jar, even if edited.
+
+You may not:
+
+- Redistribute the plugin.
+- Sell the plugin.
+- Modify and redistribute the plugin.
+- Claim the plugin as your own.
